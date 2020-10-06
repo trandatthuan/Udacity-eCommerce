@@ -1,0 +1,11 @@
+# Ignore folder
+target
+
+# Ignore file
+*.iml
+*.ipr
+*.iws
+*.jar
+*.log
+.idea
+
